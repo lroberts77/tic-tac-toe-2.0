@@ -1,5 +1,7 @@
 .game-board {
     width: 60vw;
+    display: flex;
+    justify-content: center;
 }
 
 .game-info {

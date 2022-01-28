@@ -1,12 +1,11 @@
 import React from "react";
-import './App.css';
-
-import Game from './components/Game/Game';
+import Game from "./components/Game/Game";
+import "./App.css";
 
 const App = () => (
-        <div className="App container">
-          <Game />
-        </div>
+  <div className="App container">
+    <Game />
+  </div>
 );
 
 export default App;

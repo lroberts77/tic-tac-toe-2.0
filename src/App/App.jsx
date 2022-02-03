@@ -3,7 +3,7 @@ import Game from "./components/Game/Game";
 import "./App.css";
 
 const App = () => (
-  <div className="App container">
+  <div className="App-container">
     <Game />
   </div>
 );
